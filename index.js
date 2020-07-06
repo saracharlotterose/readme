@@ -91,9 +91,24 @@ function main() {
     githuburl,
     email,
   }) {
+
+let badge;
+
+switch(license){
+    case "ISC":
+    badge = "https://img.shields.io/badge/License-MIT-yellow.svg";
+break;
+    case "MIT":
+        badge = "https://img.shields.io/badge/License-MIT-yellow.svg"
+
+
+        break;
+}
+
+
     return `## **${title}**
 
-
+![Badge](${badge})
 ## **Description**
 ${description}
 
@@ -118,7 +133,9 @@ ${tests}
 
 ## **Questions**
 ${questions}
-${githuburl}
+## *github*
+https://github.com/${githuburl}
+## *email*
 ${email}
 
 `;

@@ -1,6 +1,6 @@
 ## **s**
 
-
+![Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## **Description**
 s
 
@@ -13,7 +13,7 @@ s
 
 
 ## **Usage**
-s
+
 
 
 ## **License**
@@ -25,6 +25,8 @@ s
 
 ## **Questions**
 s
-s
+## *github*
+https://github.com/s
+## *email*
 s
 
