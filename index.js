@@ -28,11 +28,7 @@ function main() {
         type: "input",
         message: "Please enter a description for your README",
       },
-      {
-        name: "contents",
-        type: "input",
-        message: "please enter a table of contents",
-      },
+      
       {
         name: "installation",
         type: "input",
@@ -113,13 +109,19 @@ break;
 ${description}
 
 ## **Table** **of** **contents**
-${contents}
 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## **Installation**
-${installation}
-
-
+To install necessary dependencies, run the following command:
+\`\`\`
+npm i
+\`\`\`
 ## **Usage**
 ${usage}
 
@@ -133,9 +135,9 @@ ${tests}
 
 ## **Questions**
 ${questions}
-## *github*
+## *Github*
 https://github.com/${githuburl}
-## *email*
+## *Email*
 ${email}
 
 `;

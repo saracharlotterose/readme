@@ -1,32 +1,38 @@
-## **s**
+## **README**
 
 ![Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## **Description**
-s
+description
 
 ## **Table** **of** **contents**
-s
 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## **Installation**
-s
-
-
+To install necessary dependencies, run the following command:
+```
+npm i
+```
 ## **Usage**
-
+-
 
 
 ## **License**
-ISC
+MIT
 ## **Contributing**
-s
+bojcak
 ## **Tests**
-s
+-
 
 ## **Questions**
-s
-## *github*
-https://github.com/s
-## *email*
-s
+-
+## *Github*
+https://github.com/saracharlotterose
+## *Email*
+saracharlotterose@gmail.com
 
